@@ -1,0 +1,212 @@
+Here is the extracted text and structured information from your CV.  
+
+Personal Information
+
+* Name: Mishal Muhammed TM
+* Role: Artificial Intelligence & Data Science Graduate
+* Phone: +91 90722 75932
+* Email: mishalmuhammed77104.8@gmail.com
+* LinkedIn: linkedin.com/in/mishal-muhammed-a50797353
+* Location: Kerala, India
+
+⸻
+
+Professional Summary
+
+Artificial Intelligence and Data Science graduate with practical exposure to AI-driven academic and fitness applications. Experienced in applying computer vision, basic machine learning concepts, and web technologies to solve real-world problems. Interested in developing structured, user-focused AI systems with strong academic foundations.
+
+⸻
+
+Education
+
+B.Tech in Artificial Intelligence and Data Science
+
+* Institution: MES College of Engineering, Malappuram, Kerala
+* Duration: October 2022 – May 2026
+
+⸻
+
+Experience
+
+Research and Development
+
+Guido Freelance Project Centre, Kerala
+Duration: December 2025 – present
+
+Responsibilities:
+
+* Identified, documented, and resolved software bugs.
+* Researched development tools, frameworks, and automation solutions.
+* Designed and developed backend services.
+* Built and integrated RESTful APIs.
+* Performed testing, debugging, and performance optimization.
+* Collaborated with cross-functional teams.
+
+Ai&ML Internship
+
+Ediglobe, Bangalore
+Duration: July 2026 – present
+
+Responsibilities:
+
+* Engineered data preprocessing and feature engineering pipelines using Python, NumPy, and Pandas.
+* Performed EDA, statistical analysis, and data visualization to extract meaningful insights.
+* Built and evaluated Machine Learning models using regression, decision trees, and random forests.
+* Implemented NLP preprocessing and evaluated models using standard classification metrics.
+
+
+⸻
+
+Projects
+
+1. Mentora-AI – AI Mentor and Tutor System
+
+Duration: November 2025 – May 2026
+
+* Designed an AI-powered academic mentor platform.
+* Automated attendance tracking and performance monitoring.
+* Integrated NLP-based personalized learning.
+* Enhanced accessibility and educational effectiveness.
+
+⸻
+
+2. AI Pose Estimation and Curl Tracker
+
+Duration: January 2025 – March 2025
+
+* Developed an AI-based fitness monitoring application.
+* Used pose estimation and computer vision.
+* Counted exercise repetitions.
+* Provided real-time visual feedback.
+
+⸻
+
+3. Explainable Clickbait Detection System
+
+Duration: January 2026 – May 2026
+
+* Built a DistilBERT-based clickbait detection system.
+* Developed a FastAPI backend.
+* Created a Chrome Extension.
+* Used LIME for Explainable AI (XAI).
+* Added browser-based visualizations.
+
+⸻
+
+Skills
+
+Programming Languages
+
+* Python
+* Java
+* JavaScript
+* SQL
+* HTML
+* CSS
+
+Web Development
+
+* Frontend Development
+* Backend Development
+* REST APIs
+* FastAPI
+* Responsive Web Design
+
+Artificial Intelligence & Machine Learning
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Natural Language Processing (NLP)
+* Explainable AI (XAI)
+
+Tools & Technologies
+
+* Git
+* GitHub
+* Chrome Extensions
+* Chart.js
+* VS Code
+* Linux
+
+Database
+
+* MySQL
+* Database Design
+* Data Processing
+* Data Analysis
+
+Software Development
+
+* Object-Oriented Programming (OOP)
+* API Integration
+* System Design
+* Testing & Debugging
+
+Professional Skills
+
+* Problem Solving
+* Analytical Thinking
+* Team Collaboration
+* Leadership
+* Time Management
+* Adaptability
+
+Communication
+
+* Technical Documentation
+* Presentation Skills
+* Public Speaking
+* Active Listening
+
+⸻
+
+Core Skills
+
+* Python Programming
+* Java Programming
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Natural Language Processing
+* FastAPI Development
+* REST API Integration
+* Web Development
+* Database Management
+* Git & GitHub
+* Problem Solving
+* Data Structures
+* Object-Oriented Programming
+* Team Collaboration
+* Leadership
+* Time Management
+* Technical Documentation
+
+⸻
+
+Courses & Certifications
+
+* Accessing Hadoop Data Using Hive – IBM Cognitive Class
+* R Programming for Beginners – Simplilearn SkillUp (2024)
+* Cyber Security and Ethical Hacking Internship
+* AI/ML Internship – OutriX
+
+⸻
+
+Additional Information
+
+Languages
+
+* English (Advanced)
+* Malayalam (Advanced)
+* Hindi (Beginner)
+
+Availability
+
+* Open to opportunities
+
+Relocation
+
+* Yes
+
+This includes all of the information present in the uploaded CV.

@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+.env.local
+.DS_Store
+*.log
+public/mentora demo.mp4
+dist/mentora demo.mp4
