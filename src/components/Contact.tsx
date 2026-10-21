@@ -32,7 +32,7 @@ export default function Contact() {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [copiedEmail, setCopiedEmail] = useState(false);
 
-  const resumePath = "/Mishal_Muhammed_Resume_ATS2.docx";
+  const resumePath = "/Mishal_Muhammed_Resume.docx";
 
   const handleChange = (
     e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>
@@ -272,7 +272,7 @@ export default function Contact() {
                   <h3 className="text-xl font-bold text-foreground">Resume</h3>
                 </div>
                 <span className="text-xs font-medium px-2.5 py-1 rounded-full bg-accent/10 border border-accent/20 text-accent">
-                  Mishal_Muhammed_Resume_ATS2.docx
+                  Mishal_Muhammed_Resume.docx
                 </span>
               </div>
               
@@ -301,7 +301,7 @@ export default function Contact() {
                   size="default"
                   className="w-full gap-2"
                 >
-                  <a href={resumePath} download="Mishal_Muhammed_Resume_ATS2.docx">
+                  <a href={resumePath} download="Mishal_Muhammed_Resume.docx">
                     <Download className="w-4 h-4" />
                     Download Resume
                   </a>

@@ -65,7 +65,7 @@ export default function Hero() {
                 className="gap-2"
                 asChild
               >
-                <a href="/Mishal_Muhammed_Resume_ATS2.docx" target="_blank" rel="noopener noreferrer">
+                <a href="/Mishal_Muhammed_Resume.docx" target="_blank" rel="noopener noreferrer">
                   <Eye className="w-5 h-5" />
                   View Resume
                 </a>
