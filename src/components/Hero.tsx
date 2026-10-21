@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { Github, Linkedin, Mail, Eye } from "lucide-react";
+import { Github, Linkedin, Mail, Eye, Download } from "lucide-react";
 
 const techStack = [
   { name: "Python", icon: "🐍" },
@@ -68,6 +68,17 @@ export default function Hero() {
                 <a href="/Mishal_Muhammed_Resume.docx" target="_blank" rel="noopener noreferrer">
                   <Eye className="w-5 h-5" />
                   View Resume
+                </a>
+              </Button>
+              <Button
+                size="lg"
+                variant="outline"
+                className="gap-2"
+                asChild
+              >
+                <a href="/Mishal_UAE_CV.docx" download="Mishal_UAE_CV.docx">
+                  <Download className="w-5 h-5" />
+                  Download CV
                 </a>
               </Button>
               <Button

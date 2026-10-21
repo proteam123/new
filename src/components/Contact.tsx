@@ -33,6 +33,7 @@ export default function Contact() {
   const [copiedEmail, setCopiedEmail] = useState(false);
 
   const resumePath = "/Mishal_Muhammed_Resume.docx";
+  const cvPath = "/Mishal_UAE_CV.docx";
 
   const handleChange = (
     e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>
@@ -280,7 +281,7 @@ export default function Contact() {
                 View my updated resume online or download a copy for offline reference.
               </p>
 
-              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-1">
+              <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 pt-1">
                 {/* View Resume Button */}
                 <Button
                   asChild
@@ -306,8 +307,22 @@ export default function Contact() {
                     Download Resume
                   </a>
                 </Button>
+
+                {/* Download CV Button */}
+                <Button
+                  asChild
+                  variant="accent"
+                  size="default"
+                  className="w-full gap-2"
+                >
+                  <a href={cvPath} download="Mishal_UAE_CV.docx">
+                    <Download className="w-4 h-4" />
+                    Download CV
+                  </a>
+                </Button>
               </div>
             </div>
+
 
             {/* Social Media & Availability */}
             <div className="bg-card/90 backdrop-blur-md border border-border/80 rounded-2xl p-6 shadow-xl space-y-4">
