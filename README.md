@@ -6,10 +6,6 @@ A modern, responsive portfolio website showcasing Mishal Muhammed TM's profile, 
 
 The site is built with React and Vite and features a polished dark-tech visual style, animated interface elements, project demos, downloadable resume and CV files, and a contact form that opens the visitor's default email application.
 
-## Preview
-
-![Portfolio preview](./Screenshot%202026-07-03%20002506.png)
-
 ## Highlights
 
 - Responsive single-page portfolio with sticky navigation
