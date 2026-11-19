@@ -1,5 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Github, Linkedin, Mail, Eye, Download } from "lucide-react";
+import AnimatedGlobe from "./AnimatedGlobe";
 
 const techStack = [
   { name: "Python", icon: "🐍" },
@@ -117,13 +118,13 @@ export default function Hero() {
 
           {/* Right: Photo and Tech stack queue */}
           <div className="space-y-6">
-            {/* Standard Photo */}
-            <div className="relative mx-auto w-full" style={{ animation: "slideInRight 0.8s ease-out 0.2s both" }}>
-              <img
-                src="/mishal photo.png"
-                alt="Mishal Muhammed TM"
-                className="w-full h-[420px] md:h-[500px] object-cover object-top rounded-2xl shadow-xl ring-1 ring-border/50 transition-all duration-300 hover:shadow-2xl hover:-translate-y-1"
-              />
+            {/* Interactive globe */}
+            <div
+              className="relative mx-auto w-full h-[420px] md:h-[500px] overflow-hidden rounded-2xl border border-border/60 bg-card/30 shadow-xl backdrop-blur-sm ring-1 ring-border/50 transition-all duration-300 hover:shadow-2xl hover:shadow-accent/10 hover:-translate-y-1"
+              style={{ animation: "slideInRight 0.8s ease-out 0.2s both" }}
+            >
+              <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,hsl(var(--accent)/0.12),transparent_62%)]" />
+              <AnimatedGlobe />
             </div>
 
             {/* Tech stack queue */}
